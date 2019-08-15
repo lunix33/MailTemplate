@@ -39,7 +39,7 @@ Then the Macro "Project1.ShowTemplateSelector" is installed, but you'll need add
 2. Click on "File" > "Save As"
 3. The save type must be: "Outlook Template (*.oft)"; and must be located in the folder: `%APPDATA%\Microsoft\Templates`.
 
-# How to compose an email from a template
+## How to compose an email from a template
 
 1. Be sure your template is created.
 2. Open the template selector
